@@ -16,6 +16,7 @@ class TestCalculator(TestCase):
         self.assertEqual(self.calculator.multiply(3, 4), 12)
 
 
+
 # 使用以下方法中的任意一个运行测试：
 #
 # 在 Mac 系统中使用 Ctrl+R 键，在 Windows 或 Linux 系统中使用 Shift+F10 键。
