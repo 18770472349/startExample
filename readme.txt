@@ -18,3 +18,4 @@ https://realpython.com/optins/view/alcazar-web-framework/
 查看近期更改(Shift+Alt+C)：使用 Shift+Alt+C 键，或者在主菜单中点击 View → Recent Changes。
 查看近期文件(Ctrl+E)：在 Mac 系统中使用 Cmd+E 键，在 Windows 或 Linux 系统中使用 Ctrl+E 键，或者在主菜单中点击 View → Recent Files。
 多次跳转后在导航历史中前进和后退(Ctrl+Alt+Left)：在 Mac 系统中使用 Cmd+[ / Cmd+] 键，在 Windows 或 Linux 系统中使用 Ctrl+Alt+Left / Ctrl+Alt+Right 键。
+
